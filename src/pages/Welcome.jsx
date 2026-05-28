@@ -5,7 +5,7 @@ import welcome_icon from "../assets/welcome-icon.png";
 export default function Step8() {
   // USER DATA
   const user = {
-    firstName: "Akshay",
+    firstName: "User",
   };
 
   const handleGetStarted = () => {
